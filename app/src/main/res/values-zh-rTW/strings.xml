@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name" translatable="false">猜數字</string>
+    <string name="please_enter_a_number_1_100" translatable="false">請輸入數字</string>
+    <string name="bingo" translatable="false">恭喜!你猜對了</string>
+    <string name="big" translatable="false">太大了</string>
+    <string name="small" translatable="false">太小了</string>
+    <string name="message" translatable="false">提示訊息</string>
+    <string name="exit" translatable="false">離開</string>
+</resources>
